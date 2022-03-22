@@ -7,6 +7,7 @@ const rta = elements.join('--');
 console.log(rta);
 
 //Split
+//Une todos nuestros elementos en un array
 const title = 'Curso de manipulacion de arrays';
 console.log(title.split(' '));
 
